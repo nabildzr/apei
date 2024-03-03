@@ -1,0 +1,16 @@
+[
+    {
+        "soal": "Bagian Dari Komputer",
+        "jawaban": [
+            "monitor",
+            "cpu",
+            "keyboard",
+            "audio system",
+            "motherboard",
+            "ram",
+            ["harddisk", "hdd"],
+            "vga",
+            ["ssd", "solid state drive"]
+        ]
+    }
+]
