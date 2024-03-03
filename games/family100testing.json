@@ -8,9 +8,9 @@
             "audio system",
             "motherboard",
             "ram",
-            ["harddisk", "hdd"],
+            "hdd",
             "vga",
-            ["ssd", "solid state drive"]
+            "ssd"
         ]
     }
 ]
