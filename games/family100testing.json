@@ -1,16 +1,13 @@
 [
     {
-        "soal": "Bagian Dari Komputer",
+        "soal": "Siapa egi sebenarnya",
         "jawaban": [
-            "monitor",
-            "cpu",
-            "keyboard",
-            "audio system",
-            "motherboard",
-            "ram",
-            ["hdd" && "hard disk drive"],
-            "vga",
-            ["ssd" && "solid state drive"]
+            "manusia",
+            "laki laki",
+            "jelmaan",
+            "teman",
+            "ikan",
+            "manusia jadi jadian"
         ]
     }
 ]
