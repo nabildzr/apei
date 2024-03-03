@@ -8,9 +8,9 @@
             "audio system",
             "motherboard",
             "ram",
-            "hdd",
+            {"hdd" && "hard disk drive"},
             "vga",
-            "ssd"
+            {"ssd" && "solid state drive"}
         ]
     }
 ]
