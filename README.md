@@ -1,5 +1,5 @@
 # Nabildzr
-Apikey
+Api
 ## &#x1F919; Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nabildzr)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nabildzr)
